@@ -2,7 +2,7 @@
 
  START PROMPT items
 
- GET ItemName ItemName(Shampoo OR Bangs OR Fringes) 
+GET ItemName ItemName(Shampoo OR Bangs OR Fringes) 
 
        IF ItemName=("Shampoo") THEN 
                    DISPLAY("You have selected Shampoo, it costs NS500") 
